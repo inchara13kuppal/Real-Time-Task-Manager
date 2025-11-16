@@ -1,6 +1,6 @@
 # ⚡ MERN Real-Time Collaborative Task Manager
 
-A full-stack implementation of a **Task Management System** built with the **MERN Stack** (MongoDB, Express, React, Node.js) featuring advanced real-time collaboration using **Socket.IO**. This project is designed to showcase modern web development skills for a robust portfolio.
+A full-stack implementation of a **Task Management System** built with the **MERN Stack** (MongoDB, Express, React, Node.js) featuring advanced real-time collaboration using **Socket.IO**. 
 
 ---
 
